@@ -5,4 +5,4 @@
 - [x] - css
 - [X] - JavaScript
 - [x] - image
-- [ ] - Отчет
+- [x] - Отчет
