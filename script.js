@@ -8,7 +8,7 @@ function changeHeading(size, font) {
         case 'h4': fontSize = '1.5em'; break;
         case 'h3': fontSize = '1.75em'; break;
         case 'h2': fontSize = '2em'; break;
-        default: fontSize = '3.42em'; // это значение по умолчанию для h1 в вашем CSS
+        default: fontSize = '3.42em';
     }
 
     h1.style.fontSize = fontSize;
